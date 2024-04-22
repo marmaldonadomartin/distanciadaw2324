@@ -13,7 +13,7 @@
 /**
  * Función para sumar dos números.
  *
- * Esta función toma dos números y devuelve su suma.
+ * Esta función toma dos números y devuelve la suma de los dos.
  *
  * @param int $num1 El primer número.
  * @param int $num2 El segundo número.
